@@ -38,5 +38,11 @@ https://medium.com/groceristar/chickenkyiv-database-logic-simple-samples-part-2-
 https://medium.com/groceristar/chicken-kyiv-recipe-db-schema-part3-b80f33ec5d96
 
 
+#### methods from previous server
+https://chickenkyiv.github.io/documentation/docs/chickenkyiv-methods.html
+
+Some common details, related to different releases
+https://chickenkyiv.github.io/documentation/docs/recipe-api-server-releases-plan/recipe-api-server-releases-plan.html
+
 
 I have some collection of tutorials, websites, related to GraphQL topic, storing it here: https://github.com/ChickenKyiv/awesome-graphql-beginner-links
